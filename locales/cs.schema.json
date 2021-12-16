@@ -337,6 +337,24 @@
         "section_padding_heading": "Vnitřní okraj sekce",
         "padding_top": "Horní vnitřní okraj",
         "padding_bottom": "Dolní vnitřní okraj"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "Zvýraznění 1"
+        },
+        "accent_2": {
+          "label": "Zvýraznění 2"
+        },
+        "background_1": {
+          "label": "Pozadí 1"
+        },
+        "background_2": {
+          "label": "Pozadí 2"
+        },
+        "inverse": {
+          "label": "Inverze"
+        },
+        "label": "Barevné schéma"
       }
     },
     "announcement-bar": {

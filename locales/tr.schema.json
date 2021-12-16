@@ -337,6 +337,24 @@
         "section_padding_heading": "Bölüm dolgusu",
         "padding_top": "Üst dolgu",
         "padding_bottom": "Alt dolgu"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "1. Vurgu"
+        },
+        "accent_2": {
+          "label": "2. Vurgu"
+        },
+        "background_1": {
+          "label": "1. Arka plan"
+        },
+        "background_2": {
+          "label": "2. Arka plan"
+        },
+        "inverse": {
+          "label": "Ters"
+        },
+        "label": "Renk şeması"
       }
     },
     "announcement-bar": {

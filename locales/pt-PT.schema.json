@@ -337,6 +337,24 @@
         "section_padding_heading": "Secção preenchimento",
         "padding_top": "Preenchimento superior",
         "padding_bottom": "Preenchimento inferior"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "Destaque 1"
+        },
+        "accent_2": {
+          "label": "Destaque 2"
+        },
+        "background_1": {
+          "label": "Fundo 1"
+        },
+        "background_2": {
+          "label": "Fundo 2"
+        },
+        "inverse": {
+          "label": "Invertido"
+        },
+        "label": "Esquema de cores"
       }
     },
     "announcement-bar": {

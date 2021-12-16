@@ -337,6 +337,24 @@
         "section_padding_heading": "Abschnitts-Padding",
         "padding_top": "Oberes Padding",
         "padding_bottom": "Unteres Padding"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "Akzent 1"
+        },
+        "accent_2": {
+          "label": "Akzent 2"
+        },
+        "background_1": {
+          "label": "Hintergrund 1"
+        },
+        "background_2": {
+          "label": "Hintergrund 2"
+        },
+        "inverse": {
+          "label": "Invertiert"
+        },
+        "label": "Farbschema"
       }
     },
     "announcement-bar": {

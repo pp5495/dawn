@@ -337,6 +337,24 @@
         "section_padding_heading": "Vùng đệm mục",
         "padding_top": "Vùng đệm trên cùng",
         "padding_bottom": "Vùng đệm dưới cùng"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "Điểm nhấn 1"
+        },
+        "accent_2": {
+          "label": "Điểm nhấn 2"
+        },
+        "background_1": {
+          "label": "Nền 1"
+        },
+        "background_2": {
+          "label": "Nền 2"
+        },
+        "inverse": {
+          "label": "Nghịch đảo"
+        },
+        "label": "Bảng màu"
       }
     },
     "announcement-bar": {

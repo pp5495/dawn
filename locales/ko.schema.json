@@ -337,6 +337,24 @@
         "section_padding_heading": "섹션 패딩",
         "padding_top": "상단 패딩",
         "padding_bottom": "하단 패딩"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "강조 1"
+        },
+        "accent_2": {
+          "label": "강조 2"
+        },
+        "background_1": {
+          "label": "배경 1"
+        },
+        "background_2": {
+          "label": "배경 2"
+        },
+        "inverse": {
+          "label": "서로 바꾸기"
+        },
+        "label": "색상 배합"
       }
     },
     "announcement-bar": {

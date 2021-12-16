@@ -223,6 +223,24 @@
         "section_padding_heading": "Spaziatura sezione",
         "padding_top": "Spaziatura superiore",
         "padding_bottom": "Spaziatura inferiore"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "Elemento in risalto 1"
+        },
+        "accent_2": {
+          "label": "Elemento in risalto 2"
+        },
+        "background_1": {
+          "label": "Sfondo 1"
+        },
+        "background_2": {
+          "label": "Sfondo 2"
+        },
+        "inverse": {
+          "label": "Inverso"
+        },
+        "label": "Schema colori"
       }
     },
     "announcement-bar": {

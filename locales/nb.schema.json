@@ -223,6 +223,24 @@
         "section_padding_heading": "Seksjonsmarg",
         "padding_top": "Toppmarg",
         "padding_bottom": "Bunnmarg"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "Aksent 1"
+        },
+        "accent_2": {
+          "label": "Aksent 2"
+        },
+        "background_1": {
+          "label": "Bakgrunn 1"
+        },
+        "background_2": {
+          "label": "Bakgrunn 2"
+        },
+        "inverse": {
+          "label": "Omvendt"
+        },
+        "label": "Fargepalett"
       }
     },
     "announcement-bar": {

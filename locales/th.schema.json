@@ -337,6 +337,24 @@
         "section_padding_heading": "พื้นที่ว่างของส่วน",
         "padding_top": "พื้นที่ว่างด้านบน",
         "padding_bottom": "พื้นที่ว่างด้านล่าง"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "ส่วนเน้น 1"
+        },
+        "accent_2": {
+          "label": "ส่วนเน้น 2"
+        },
+        "background_1": {
+          "label": "พื้นหลัง 1"
+        },
+        "background_2": {
+          "label": "พื้นหลัง 2"
+        },
+        "inverse": {
+          "label": "ตรงกันข้าม"
+        },
+        "label": "รูปแบบสี"
       }
     },
     "announcement-bar": {

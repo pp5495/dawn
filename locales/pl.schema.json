@@ -223,6 +223,24 @@
         "section_padding_heading": "Dopełnienie sekcji",
         "padding_top": "Dopełnienie na górze",
         "padding_bottom": "Dopełnienie na dole"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "Akcent 1"
+        },
+        "accent_2": {
+          "label": "Akcent 2"
+        },
+        "background_1": {
+          "label": "Tło 1"
+        },
+        "background_2": {
+          "label": "Tło 2"
+        },
+        "inverse": {
+          "label": "Odwrócone"
+        },
+        "label": "Kolorystyka"
       }
     },
     "announcement-bar": {

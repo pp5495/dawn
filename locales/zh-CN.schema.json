@@ -337,6 +337,24 @@
         "section_padding_heading": "分区填充",
         "padding_top": "顶部填充",
         "padding_bottom": "底部填充"
+      },
+      "colors": {
+        "accent_1": {
+          "label": "强调色 1"
+        },
+        "accent_2": {
+          "label": "强调色 2"
+        },
+        "background_1": {
+          "label": "背景 1"
+        },
+        "background_2": {
+          "label": "背景 2"
+        },
+        "inverse": {
+          "label": "反转色"
+        },
+        "label": "配色方案"
       }
     },
     "announcement-bar": {
