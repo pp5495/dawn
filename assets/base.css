@@ -1778,7 +1778,6 @@ input[type='checkbox'] {
   color: rgba(var(--color-foreground));
   border-radius: var(--inputs-radius);
   position: relative;
-  height: 4.5rem;
   width: calc(14rem / var(--font-body-scale));
   display: flex;
   filter: drop-shadow(
@@ -1802,6 +1801,7 @@ input[type='checkbox'] {
   flex-grow: 1;
   -webkit-appearance: none;
   appearance: none;
+  height: 4.5rem;
 }
 
 .quantity__button {
