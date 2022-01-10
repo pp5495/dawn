@@ -63,8 +63,8 @@
               this.innerHTML = recommendations.innerHTML;
             }
 
-            if (html.querySelectorAll('.grid__item').length > 0) {
-              document.querySelector('product-recommendations').classList.add('product-recommendations--loaded');
+            if (html.querySelector('.grid__item')) {
+              this.classList.add('product-recommendations--loaded');
             }
           })
           .catch(e => {
