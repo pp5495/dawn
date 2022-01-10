@@ -48,6 +48,7 @@
     constructor() {
       super();
 
+
       const handleIntersection = (entries, observer) => {
         if (!entries[0].isIntersecting) return;
         observer.unobserve(this);
@@ -58,8 +59,13 @@
             const html = document.createElement('div');
             html.innerHTML = text;
             const recommendations = html.querySelector('product-recommendations');
+
             if (recommendations && recommendations.innerHTML.trim().length) {
               this.innerHTML = recommendations.innerHTML;
+            }
+
+            if (html.querySelectorAll('.grid__item').length > 0) {
+              document.querySelector('product-recommendations').classList.add('product-recommendations--loaded');
             }
           })
           .catch(e => {
