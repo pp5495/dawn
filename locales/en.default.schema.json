@@ -566,9 +566,6 @@
           "label": "Show featured image",
           "info": "For best results, use an image with a 3:2 aspect ratio. [Learn more](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
         },
-        "soft_background": {
-          "label": "Show secondary background"
-        },
         "show_date": {
           "label": "Show date"
         },
@@ -1873,9 +1870,6 @@
           },
           "options__2": {
             "label": "Show as column background"
-          },
-          "options__3": {
-            "label": "Show as section background"
           }
         },
         "button_label": {
