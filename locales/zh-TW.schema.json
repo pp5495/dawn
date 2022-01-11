@@ -354,7 +354,8 @@
         "inverse": {
           "label": "對比色"
         },
-        "label": "顏色配置"
+        "label": "顏色配置",
+        "has_cards_info": "若要變更卡片的顏色配置，請更新佈景主題設定。"
       }
     },
     "announcement-bar": {
@@ -553,9 +554,6 @@
         "show_image": {
           "label": "顯示精選圖片",
           "info": "若想要獲得最佳結果，請使用外觀比例為 3:2 的圖片。[瞭解詳情](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "顯示次要背景"
         },
         "show_date": {
           "label": "顯示日期"
@@ -1754,9 +1752,6 @@
           },
           "options__2": {
             "label": "顯示欄位背景"
-          },
-          "options__3": {
-            "label": "顯示區段背景"
           }
         },
         "button_label": {

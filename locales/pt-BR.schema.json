@@ -354,7 +354,8 @@
         "inverse": {
           "label": "Inverso"
         },
-        "label": "Esquema de cores"
+        "label": "Esquema de cores",
+        "has_cards_info": "Atualize as configurações do tema para alterar o esquema de cores do cartão."
       }
     },
     "announcement-bar": {
@@ -559,9 +560,6 @@
         },
         "show_author": {
           "label": "Mostrar autor"
-        },
-        "soft_background": {
-          "label": "Mostrar plano de fundo secundário"
         }
       },
       "presets": {
@@ -1750,9 +1748,6 @@
           },
           "options__2": {
             "label": "Mostrar como plano de fundo da coluna"
-          },
-          "options__3": {
-            "label": "Mostrar como plano de fundo da seção"
           }
         },
         "button_label": {

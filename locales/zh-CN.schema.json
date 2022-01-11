@@ -354,7 +354,8 @@
         "inverse": {
           "label": "反转色"
         },
-        "label": "配色方案"
+        "label": "配色方案",
+        "has_cards_info": "若要更改卡配色方案，请更新您的模板设置。"
       }
     },
     "announcement-bar": {
@@ -553,9 +554,6 @@
         "show_image": {
           "label": "显示配图",
           "info": "若要获得最佳效果，请使用纵横比为 3:2 的图片。[了解详细信息](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "显示辅助背景"
         },
         "show_date": {
           "label": "显示日期"
@@ -1754,9 +1752,6 @@
           },
           "options__2": {
             "label": "显示为列背景"
-          },
-          "options__3": {
-            "label": "显示为分区背景"
           }
         },
         "button_label": {

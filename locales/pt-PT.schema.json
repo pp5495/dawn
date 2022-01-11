@@ -354,7 +354,8 @@
         "inverse": {
           "label": "Invertido"
         },
-        "label": "Esquema de cores"
+        "label": "Esquema de cores",
+        "has_cards_info": "Para alterar o esquema de cores do cartão, atualize as suas definições de tema."
       }
     },
     "announcement-bar": {
@@ -553,9 +554,6 @@
         "show_image": {
           "label": "Mostrar imagem em destaque",
           "info": "Para obter os melhores resultados, use uma imagem com uma proporção de 3:2. [Saber mais](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "Mostrar fundo secundário"
         },
         "show_date": {
           "label": "Mostrar data"
@@ -1754,9 +1752,6 @@
           },
           "options__2": {
             "label": "Mostrar como fundo da coluna"
-          },
-          "options__3": {
-            "label": "Mostrar como fundo da secção"
           }
         },
         "button_label": {

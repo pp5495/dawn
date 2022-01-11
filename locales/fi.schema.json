@@ -240,7 +240,8 @@
         "inverse": {
           "label": "Käänteinen"
         },
-        "label": "Värimalli"
+        "label": "Värimalli",
+        "has_cards_info": "Voit muuttaa kortin väriskeemaa päivittämällä teema-asetuksia."
       }
     },
     "announcement-bar": {
@@ -486,9 +487,6 @@
         "show_image": {
           "label": "Näytä esittelykuva",
           "info": "Saat parhaat tulokset käyttämällä kuvaa, jonka kuvasuhde on 3:2. [Lisätietoja](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "Näytä toissijainen tausta"
         },
         "show_date": {
           "label": "Näytä päivämäärä"
@@ -1725,9 +1723,6 @@
           },
           "options__2": {
             "label": "Näytä sarakkeen taustana"
-          },
-          "options__3": {
-            "label": "Näytä osion taustana"
           }
         },
         "button_label": {

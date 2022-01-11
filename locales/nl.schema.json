@@ -240,7 +240,8 @@
         "inverse": {
           "label": "Omkeren"
         },
-        "label": "Kleurschema"
+        "label": "Kleurschema",
+        "has_cards_info": "Werk je thema-instellingen bij om het kleurschema van de kaart te wijzigen."
       }
     },
     "announcement-bar": {
@@ -486,9 +487,6 @@
         "show_image": {
           "label": "Uitgelichte afbeelding weergeven",
           "info": "Gebruik voor de beste resultaten een afbeelding met een beeldverhouding van 3:2. [Meer informatie](https://help.shopify.com/en/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
-        },
-        "soft_background": {
-          "label": "Secundaire achtergrond tonen"
         },
         "show_date": {
           "label": "Datum weergeven"
@@ -1723,9 +1721,6 @@
           },
           "options__2": {
             "label": "Weergeven als kolomachtergrond"
-          },
-          "options__3": {
-            "label": "Weergeven als sectie-achtergrond"
           }
         },
         "button_label": {
