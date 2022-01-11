@@ -2453,8 +2453,8 @@ details-disclosure > details {
 }
 
 .gradient {
-  background: var(--color-background);
-  background: var(--gradient-background);
+  background-color: rgb(var(--color-background));
+  background-image: var(--gradient-background);
   background-attachment: fixed;
 }
 
