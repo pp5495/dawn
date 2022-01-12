@@ -292,7 +292,12 @@
                           {{ form | payment_button }}
                         {%- endif -%}
                       </div>
+                      <div class="line-item-property_field Personalization_field">
+              <labl for="name">Name</label>
+              <input type="text" required class="required" id="personalization" name="properties[name]">
+</div>
                     {%- endform -%}
+                    
                   </product-form>
                 {%- else -%}
                   <div class="product-form">
